@@ -1,0 +1,22 @@
+
+
+###
+GET http://localhost:8080/hello/add/minamoto/44
+
+###
+GET http://localhost:8080/hello/add/petya/34
+
+###
+GET http://localhost:8080/hello/add/jenny/23
+
+###
+GET http://localhost:8080/hello/add/irina/18
+
+###
+GET http://localhost:8080/hello/add/deed/51
+
+
+###
+GET http://localhost:8080/hello/users
+
+<> 2023-07-11T055409.200.txt
