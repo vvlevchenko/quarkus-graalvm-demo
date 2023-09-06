@@ -27,3 +27,8 @@
 7. `http://localhost:8080/hello/users`
 
 
+Troubleshooting
+https://youtrack.jetbrains.com/issue/IDEA-331760/ It is not possible to set breakpoints for some classes/methods
+...
+
+
